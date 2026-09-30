@@ -11,7 +11,6 @@ ABOUT SHUBHAM PATIL:
 * Role: AI/ML Engineer
 * GitHub: https://github.com/patilshubham0003
 * Email: patilshubham3507@gmail.com
-* Phone: 9960423507
 * Education: Bachelor of Technology in Information Technology
 * College: Tulsiramji Gaikwad-Patil College of Engineering and Technology (TGPCET), Nagpur
 * Education Duration: Nov 2022 - Aug 2026
